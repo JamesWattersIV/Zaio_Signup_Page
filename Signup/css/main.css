@@ -1,0 +1,68 @@
+#hero{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../images/SignUpBG.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+
+#heading h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    line-height:3;
+}
+
+#heading h1{
+    font-family: "Heebo", sans-serif;
+    padding: 10px 10px 40px 10px;
+}
+
+#signup{
+    width:auto;
+    height: auto;
+    display: inline-block;
+    background-color: white;
+    padding: 20px 20px;
+    border-radius: 4px;
+}
+
+.input-group{
+    padding: 10px;
+    font-family:"Heebo", sans-serif;
+}
+
+#submit-button{
+    font-family:"Heebo", sans-serif;
+    margin: 20px;
+    align-items: center;
+    width: 50%;
+    background-color: green;
+}
+
+#passwordCheckbox{
+    font-family: "Heebo", sans-serif;
+}
+
+#conPassword-input{
+    padding-bottom: 5px;
+}
+
+p{
+    font-family: "Heebo", sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
